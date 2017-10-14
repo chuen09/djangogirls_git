@@ -1,0 +1,341 @@
+Microsoft Windows [Versión 10.0.15063]
+(c) 2017 Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\Agu>
+C:\Users\Agu>
+C:\Users\Agu>
+C:\Users\Agu>
+C:\Users\Agu>
+C:\Users\Agu>
+C:\Users\Agu>
+C:\Users\Agu>
+C:\Users\Agu>
+C:\Users\Agu>
+C:\Users\Agu>
+C:\Users\Agu>
+C:\Users\Agu>d:
+
+D:\>cd Programas instaladores\djangogirls
+
+D:\Programas instaladores\djangogirls>dir
+ El volumen de la unidad D es agu
+ El número de serie del volumen es: 7CC1-D435
+
+ Directorio de D:\Programas instaladores\djangogirls
+
+13/10/2017  18:25    <DIR>          .
+13/10/2017  18:25    <DIR>          ..
+13/10/2017  18:31               281 CMD.txt
+13/10/2017  17:50    <DIR>          djangoG-instaladores
+13/10/2017  18:17    <DIR>          myvenv
+               1 archivos            281 bytes
+               4 dirs   7.368.671.232 bytes libres
+
+D:\Programas instaladores\djangogirls>django-admin startproject mysite .
+"django-admin" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+D:\Programas instaladores\djangogirls>django-admin.exe startproject mysite .
+"django-admin.exe" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+D:\Programas instaladores\djangogirls>djangoG-instaladores
+"djangoG-instaladores" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+D:\Programas instaladores\djangogirls>cd myvenv
+
+D:\Programas instaladores\djangogirls\myvenv>dir
+ El volumen de la unidad D es agu
+ El número de serie del volumen es: 7CC1-D435
+
+ Directorio de D:\Programas instaladores\djangogirls\myvenv
+
+13/10/2017  18:17    <DIR>          .
+13/10/2017  18:17    <DIR>          ..
+13/10/2017  17:59    <DIR>          Include
+13/10/2017  18:03    <DIR>          Lib
+13/10/2017  18:17                60 pip-selfcheck.json
+13/10/2017  17:59               118 pyvenv.cfg
+13/10/2017  18:17    <DIR>          Scripts
+               2 archivos            178 bytes
+               5 dirs   7.368.671.232 bytes libres
+
+D:\Programas instaladores\djangogirls\myvenv>cd scripts
+
+D:\Programas instaladores\djangogirls\myvenv\Scripts>activate.bat
+(myvenv) D:\Programas instaladores\djangogirls\myvenv\Scripts>cd..
+
+(myvenv) D:\Programas instaladores\djangogirls\myvenv>cd.
+
+(myvenv) D:\Programas instaladores\djangogirls\myvenv>cd..
+
+(myvenv) D:\Programas instaladores\djangogirls>django-admin.exe startproject mysite .
+"django-admin.exe" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+(myvenv) D:\Programas instaladores\djangogirls>pip list
+"pip" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+(myvenv) D:\Programas instaladores\djangogirls>dir
+ El volumen de la unidad D es agu
+ El número de serie del volumen es: 7CC1-D435
+
+ Directorio de D:\Programas instaladores\djangogirls
+
+13/10/2017  18:25    <DIR>          .
+13/10/2017  18:25    <DIR>          ..
+13/10/2017  18:31               281 CMD.txt
+13/10/2017  17:50    <DIR>          djangoG-instaladores
+13/10/2017  18:17    <DIR>          myvenv
+               1 archivos            281 bytes
+               4 dirs   7.368.671.232 bytes libres
+
+(myvenv) D:\Programas instaladores\djangogirls>dir myvenv
+ El volumen de la unidad D es agu
+ El número de serie del volumen es: 7CC1-D435
+
+ Directorio de D:\Programas instaladores\djangogirls\myvenv
+
+13/10/2017  18:17    <DIR>          .
+13/10/2017  18:17    <DIR>          ..
+13/10/2017  17:59    <DIR>          Include
+13/10/2017  18:03    <DIR>          Lib
+13/10/2017  18:17                60 pip-selfcheck.json
+13/10/2017  17:59               118 pyvenv.cfg
+13/10/2017  18:17    <DIR>          Scripts
+               2 archivos            178 bytes
+               5 dirs   7.368.671.232 bytes libres
+
+(myvenv) D:\Programas instaladores\djangogirls>dir
+ El volumen de la unidad D es agu
+ El número de serie del volumen es: 7CC1-D435
+
+ Directorio de D:\Programas instaladores\djangogirls
+
+13/10/2017  18:25    <DIR>          .
+13/10/2017  18:25    <DIR>          ..
+13/10/2017  18:31               281 CMD.txt
+13/10/2017  17:50    <DIR>          djangoG-instaladores
+13/10/2017  18:17    <DIR>          myvenv
+               1 archivos            281 bytes
+               4 dirs   7.368.671.232 bytes libres
+
+(myvenv) D:\Programas instaladores\djangogirls>cd myvenv
+
+(myvenv) D:\Programas instaladores\djangogirls\myvenv>dir7
+"dir7" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+(myvenv) D:\Programas instaladores\djangogirls\myvenv>dir
+ El volumen de la unidad D es agu
+ El número de serie del volumen es: 7CC1-D435
+
+ Directorio de D:\Programas instaladores\djangogirls\myvenv
+
+13/10/2017  18:17    <DIR>          .
+13/10/2017  18:17    <DIR>          ..
+13/10/2017  17:59    <DIR>          Include
+13/10/2017  18:03    <DIR>          Lib
+13/10/2017  18:17                60 pip-selfcheck.json
+13/10/2017  17:59               118 pyvenv.cfg
+13/10/2017  18:17    <DIR>          Scripts
+               2 archivos            178 bytes
+               5 dirs   7.368.671.232 bytes libres
+
+(myvenv) D:\Programas instaladores\djangogirls\myvenv>dir Lib
+ El volumen de la unidad D es agu
+ El número de serie del volumen es: 7CC1-D435
+
+ Directorio de D:\Programas instaladores\djangogirls\myvenv\Lib
+
+13/10/2017  18:03    <DIR>          .
+13/10/2017  18:03    <DIR>          ..
+13/10/2017  18:17    <DIR>          site-packages
+13/10/2017  18:03    <DIR>          tcl8.6
+               0 archivos              0 bytes
+               4 dirs   7.368.671.232 bytes libres
+
+(myvenv) D:\Programas instaladores\djangogirls\myvenv>dir Scripts
+ El volumen de la unidad D es agu
+ El número de serie del volumen es: 7CC1-D435
+
+ Directorio de D:\Programas instaladores\djangogirls\myvenv\Scripts
+
+13/10/2017  18:17    <DIR>          .
+13/10/2017  18:17    <DIR>          ..
+13/10/2017  17:59             2.219 activate
+13/10/2017  17:59               612 activate.bat
+13/10/2017  17:59             1.489 Activate.ps1
+13/10/2017  17:59               368 deactivate.bat
+13/10/2017  18:17            89.520 django-admin.exe
+13/10/2017  18:17               168 django-admin.py
+13/10/2017  17:59            89.465 easy_install-3.6.exe
+13/10/2017  17:59            89.465 easy_install.exe
+13/10/2017  17:59            89.437 pip.exe
+13/10/2017  17:59            89.437 pip3.6.exe
+13/10/2017  17:59            89.437 pip3.exe
+13/10/2017  17:59           157.336 pyexpat.pyd
+13/10/2017  17:59            97.944 python.exe
+13/10/2017  17:59            58.008 python3.dll
+13/10/2017  17:59         3.263.640 python36.dll
+13/10/2017  17:59            96.408 pythonw.exe
+13/10/2017  17:59            23.192 select.pyd
+13/10/2017  17:59           866.456 sqlite3.dll
+13/10/2017  17:59         1.307.136 tcl86t.dll
+13/10/2017  17:59         1.550.336 tk86t.dll
+13/10/2017  17:59           895.640 unicodedata.pyd
+13/10/2017  17:59            83.784 vcruntime140.dll
+13/10/2017  17:59            24.216 winsound.pyd
+13/10/2017  17:59            45.208 _asyncio.pyd
+13/10/2017  17:59            77.976 _bz2.pyd
+13/10/2017  17:59           101.528 _ctypes.pyd
+13/10/2017  17:59            29.848 _ctypes_test.pyd
+13/10/2017  17:59           215.704 _decimal.pyd
+13/10/2017  17:59           156.312 _elementtree.pyd
+13/10/2017  17:59         1.042.584 _hashlib.pyd
+13/10/2017  17:59           183.448 _lzma.pyd
+13/10/2017  17:59            32.408 _msi.pyd
+13/10/2017  17:59            25.240 _multiprocessing.pyd
+13/10/2017  17:59            33.944 _overlapped.pyd
+13/10/2017  17:59            61.592 _socket.pyd
+13/10/2017  17:59            64.152 _sqlite3.pyd
+13/10/2017  17:59         1.458.840 _ssl.pyd
+13/10/2017  17:59            41.112 _testbuffer.pyd
+13/10/2017  17:59            73.880 _testcapi.pyd
+13/10/2017  17:59            20.632 _testconsole.pyd
+13/10/2017  17:59            19.096 _testimportmultiple.pyd
+13/10/2017  17:59            25.752 _testmultiphase.pyd
+13/10/2017  17:59            52.888 _tkinter.pyd
+13/10/2017  18:17    <DIR>          __pycache__
+              43 archivos     12.727.857 bytes
+               3 dirs   7.368.671.232 bytes libres
+
+(myvenv) D:\Programas instaladores\djangogirls\myvenv>django-admin.exe startproject mysite .
+
+(myvenv) D:\Programas instaladores\djangogirls\myvenv>pwd
+/d/Programas instaladores/djangogirls/myvenv
+
+(myvenv) D:\Programas instaladores\djangogirls\myvenv>cd ..
+
+(myvenv) D:\Programas instaladores\djangogirls>myvenv\Scripts\django-admin.exe startproject mysite .
+Fatal error in launcher: Unable to create process using '"'
+
+(myvenv) D:\Programas instaladores\djangogirls>py myvenv\Scripts\django-admin.exe startproject mysite .
+Traceback (most recent call last):
+  File "C:\Users\Agu\AppData\Local\Programs\Python\Python36\lib\runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "C:\Users\Agu\AppData\Local\Programs\Python\Python36\lib\runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "myvenv\Scripts\django-admin.exe\__main__.py", line 5, in <module>
+ModuleNotFoundError: No module named 'django'
+
+(myvenv) D:\Programas instaladores\djangogirls>python myvenv\Scripts\django-admin.exe startproject mysite .
+Traceback (most recent call last):
+  File "C:\Users\Agu\AppData\Local\Programs\Python\Python36-32\lib\runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "C:\Users\Agu\AppData\Local\Programs\Python\Python36-32\lib\runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "myvenv\Scripts\django-admin.exe\__main__.py", line 5, in <module>
+ModuleNotFoundError: No module named 'django'
+
+(myvenv) D:\Programas instaladores\djangogirls>django-admin.py startproject mysite .
+"django-admin.py" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+(myvenv) D:\Programas instaladores\djangogirls>ls
+CMD.txt  djangoG-instaladores  myvenv
+
+(myvenv) D:\Programas instaladores\djangogirls>ls myvenv\Scripts
+Activate.ps1      _hashlib.pyd          _testbuffer.pyd          deactivate.bat        pyexpat.pyd   tk86t.dll
+__pycache__       _lzma.pyd             _testcapi.pyd            django-admin.exe      python.exe    unicodedata.pyd
+_asyncio.pyd      _msi.pyd              _testconsole.pyd         django-admin.py       python3.dll   vcruntime140.dll
+_bz2.pyd          _multiprocessing.pyd  _testimportmultiple.pyd  easy_install-3.6.exe  python36.dll  winsound.pyd
+_ctypes.pyd       _overlapped.pyd       _testmultiphase.pyd      easy_install.exe      pythonw.exe
+_ctypes_test.pyd  _socket.pyd           _tkinter.pyd             pip.exe               select.pyd
+_decimal.pyd      _sqlite3.pyd          activate                 pip3.6.exe            sqlite3.dll
+_elementtree.pyd  _ssl.pyd              activate.bat             pip3.exe              tcl86t.dll
+
+(myvenv) D:\Programas instaladores\djangogirls>python myvenv\Scripts\django-admin.py startproject mysite .
+Traceback (most recent call last):
+  File "myvenv\Scripts\django-admin.py", line 2, in <module>
+    from django.core import management
+ModuleNotFoundError: No module named 'django'
+
+(myvenv) D:\Programas instaladores\djangogirls>python
+Python 3.6.1 (v3.6.1:69c0db5, Mar 21 2017, 17:54:52) [MSC v.1900 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import django
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ModuleNotFoundError: No module named 'django'
+>>> exit()
+
+(myvenv) D:\Programas instaladores\djangogirls>pip
+"pip" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+(myvenv) D:\Programas instaladores\djangogirls>myvenv\Scripts\pip.exe install django==1.8
+Fatal error in launcher: Unable to create process using '"'
+
+(myvenv) D:\Programas instaladores\djangogirls>myvenv\Scripts\pip.exe install django==1.8
+
+(myvenv) D:\Programas instaladores\djangogirls>cd..
+
+(myvenv) D:\Programas instaladores>cd..
+
+(myvenv) D:\>"Programas instaladores"
+""Programas instaladores"" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+(myvenv) D:\>cd "Programas instaladores"
+
+(myvenv) D:\Programas instaladores>move djangogirls django
+Se ha(n) movido         1 directorio(s).
+
+(myvenv) D:\Programas instaladores>cd django
+
+(myvenv) D:\Programas instaladores\django>django-admin.py startproject mysite .
+"django-admin.py" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+(myvenv) D:\Programas instaladores\django>myvenv\Scripts\django-admin.exe startproject mysite .
+Traceback (most recent call last):
+  File "C:\Users\Agu\AppData\Local\Programs\Python\Python36-32\lib\runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "C:\Users\Agu\AppData\Local\Programs\Python\Python36-32\lib\runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "D:\Programas instaladores\django\myvenv\Scripts\django-admin.exe\__main__.py", line 5, in <module>
+  File "d:\programas instaladores\django\myvenv\lib\site-packages\django\core\management\__init__.py", line 13, in <module>
+    from django.core.management.base import (
+  File "d:\programas instaladores\django\myvenv\lib\site-packages\django\core\management\base.py", line 17, in <module>
+    from django.db.migrations.exceptions import MigrationSchemaMissing
+  File "d:\programas instaladores\django\myvenv\lib\site-packages\django\db\migrations\__init__.py", line 2, in <module>
+    from .operations import *  # NOQA
+  File "d:\programas instaladores\django\myvenv\lib\site-packages\django\db\migrations\operations\__init__.py", line 1, in <module>
+    from .fields import AddField, AlterField, RemoveField, RenameField
+  File "d:\programas instaladores\django\myvenv\lib\site-packages\django\db\migrations\operations\fields.py", line 4, in <module>
+    from django.db.models.fields import NOT_PROVIDED
+  File "d:\programas instaladores\django\myvenv\lib\site-packages\django\db\models\__init__.py", line 14, in <module>
+    from django.db.models.fields.files import FileField, ImageField
+  File "d:\programas instaladores\django\myvenv\lib\site-packages\django\db\models\fields\files.py", line 10, in <module>
+    from django.core.files.storage import default_storage
+  File "d:\programas instaladores\django\myvenv\lib\site-packages\django\core\files\storage.py", line 8, in <module>
+    from django.core.files import File, locks
+  File "d:\programas instaladores\django\myvenv\lib\site-packages\django\core\files\locks.py", line 31, in <module>
+    from ctypes import (sizeof, c_ulong, c_void_p, c_int64,
+  File "C:\Users\Agu\AppData\Local\Programs\Python\Python36-32\lib\ctypes\__init__.py", line 7, in <module>
+    from _ctypes import Union, Structure, Array
+ImportError: DLL load failed: No se encontró el proceso especificado.
+
+(myvenv) D:\Programas instaladores\django>ls
+CMD.txt  djangoG-instaladores  myvenv
+
+(myvenv) D:\Programas instaladores\django>myvenv\Scripts\django-admin.py startproject mysite .
+
+(myvenv) D:\Programas instaladores\django>ls
+CMD.txt  djangoG-instaladores  manage.py  mysite  myvenv
+
+(myvenv) D:\Programas instaladores\django>
+

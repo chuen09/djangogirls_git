@@ -1,0 +1,15 @@
+dir 			 mostrar directorio
+cd.. 			arriba
+cd 			ir a 
+D:    ir a unidad d 
+
+
+ejecutar 
+D:\Programas instaladores\django\myvenv\Scripts>cd activate.bat
+
+para correr PIP:  
+python -m pip install django
+
+
+git cod2016
+https://www.pythonanywhere.com/user/chuen/consoles/
